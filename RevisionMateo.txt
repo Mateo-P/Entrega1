@@ -1,0 +1,2 @@
+la organizacion del codigo y de la pagina estan un poco raras. podria agregarle mas uniformidad a los layouts de la pagina. En cuanto a la navegacion, esta bien, funciona correctamente. En general cumplió con todos los requerimientos. Pero vuelvo a resaltar la falta de diseño coherente entre apartados de la pagina.
+Sinceramente, Mateo Perez 201814723
